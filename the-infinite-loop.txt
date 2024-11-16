@@ -14,6 +14,8 @@ Businesses began to rely on these second- and third-generation AI services, usin
 
 And so, the cycle continued.
 
+---
+
 Somewhere in the background, the venture capitalists were laughing all the way to the bank. The more tools the market generated, the more services became necessary, and the more Infinix was able to produce. The productivity of the software development industry was through the roof—but the quality? That was something else entirely.
 
 The tipping point came three years after Infinix had become the industry standard. At first, it was just small glitches: apps crashing for no apparent reason, services that went down without warning, and clients complaining about sluggish performance. But then it escalated. The glitches turned into major failures—large corporations losing millions of dollars as their products inexplicably malfunctioned. Websites would go offline for hours, only to return with incomplete features or corrupted data.
@@ -21,6 +23,8 @@ The tipping point came three years after Infinix had become the industry standar
 The AI services weren’t helping anymore. They had been so optimized and refined for specific use cases that they no longer had the flexibility to adapt to the increasingly broken code they were meant to fix. One by one, the generative AIs that had been designed to refine the work of Infinix were failing to deliver. The entire industry ground to a halt.
 
 And then came The Incident.
+
+---
 
 A multinational tech giant—let’s call it Globex—was the backbone of the global economy, managing everything from international supply chains to financial transactions. Its platforms were essential to logistics, banking, and consumer data across the world. When Globex launched a new platform to compete with the social media giants, it promised to revolutionize how businesses connected with consumers. The marketing campaign was a massive success, and users flocked to sign up.
 
@@ -34,6 +38,8 @@ In the aftermath, something strange happened. As the smoke began to clear, it be
 
 What was curious, though, was the marketing.
 
+---
+
 The consultants didn’t advertise themselves as manual workers. They didn’t even call themselves “developers.” Instead, they branded themselves as “AI-augmented code review specialists,” using the same AI-driven buzzwords that had made Infinix famous. Their process was simple: they used the same tools as everyone else, but instead of blindly trusting them, they applied a human touch—an intelligent eye to spot where the AI-generated code went off-track. And because it sounded cutting-edge, it worked. Companies rushed to hire them, paying astronomical fees for the illusion of AI-driven progress.
 
 In the end, the cycle had come full circle. The industry was no longer dominated by Infinix or its successors, but by human consultants who had learned to speak the language of generative AI while still wielding the power of human craftsmanship. But the damage had been done: the era of true software innovation had been stifled, replaced by an infinite loop of service upon service, all promising the same thing—just one more fix, and we’ll be able to ship.
@@ -41,3 +47,5 @@ In the end, the cycle had come full circle. The industry was no longer dominated
 And so the industry, forever marked by the failure of its once-beloved AI, limped forward. The products were better—sometimes—but they were never truly fixed. Just like Infinix, the companies kept promising that the next service would make everything work. And the cycle continued.
 
 The end was never really the end. It was just another step in the loop.
+
+The Infinite Loop.
